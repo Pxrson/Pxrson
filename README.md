@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=9333EA&center=true&vCenter=true&width=400&lines=hey+there;roblox+script+dev;always+learning+something+new)](https://git.io/typing-svg)
 </div>
 
-## About me
+## About me - (turn over if mobile)
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
 
