@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=pxrson&fontAlignY=35&fontSize=45&fontColor=ffffff&desc=Learning%20Lua%20•%20Roblox%20Developer&descAlignY=55&animation=twinkling" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=pxrson&fontAlignY=35&fontSize=45&fontColor=ffffff&desc=Learning%20Lua%20•%20Roblox%20Upcoming%20Dev&descAlignY=55&animation=twinkling" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=9333EA&center=true&vCenter=true&width=400&lines=hey+there;roblox+script+developer;always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=9333EA&center=true&vCenter=true&width=400&lines=hey+there;roblox+script+dev;always+learning+something+new)](https://git.io/typing-svg)
 </div>
 
 ## About me
@@ -10,7 +10,7 @@
 
 ```yaml
 name: Kenadee (pxrson)
-status: roblox lua developer
+status: upcoming roblox lua dev
 interests: [scripting, gaming, music]
 music_taste: rap • hip-hop • rock • metal • country
 vibes: usually online, funny, random
@@ -82,39 +82,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game_Development-4CAF50?style=flat&logo=unity&logoColor=white)
-
-</div>
-
-## Currently Listening To
-
-<div align="center">
-
-| Artist | Notes |
-|--------|-------|
-| [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | unique sound & energy |
-| [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | raw emotion in music |
-| [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | emo rap pioneer |
-| [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | great collabs with peep |
-| [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | dark & atmospheric |
-
-**On repeat:** [let's pretend we're numb](https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW) • [NOT EVEN GHOSTS ARE THIS EMPTY](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI)
-
-</div>
-
-## Friends
-
-- **Havoc** - my bestie who's teaching me lua
-- **Adriel** - solid friend 
-- **Unc BloodPuppit** (@bloodpuppit)
-- **skol.win**
-
-## Random Facts
-
-<div align="center">
-
-| Pets | Proud Of | Fav YouTuber | Goals |
-|------|----------|-------------|-------|
-| Cat: Maggy<br>Dogs: Tony, Molly/Mippi, Hooch | Making progress in Lua | Caylus | Becoming a better developer |
 
 </div>
 
