@@ -15,7 +15,9 @@ current_focus: improving lua skills & creating useful scripts
 
 ---
 
-### My Scripts
+<div align="center">
+  <h3>My scripts</h3>
+</div>
 
 <details>
 <summary><b>oMega Obby</b> - roblox game script</summary>
