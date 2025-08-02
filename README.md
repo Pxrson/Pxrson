@@ -75,7 +75,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 
 ---
 
-### Socials and stuff
+<div align="center">
+  <h3>Socials</h3>
+</div>
 
 <div align="center">
   
