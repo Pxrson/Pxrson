@@ -1,4 +1,6 @@
-### List of about me
+<div align="center">
+  <h3>List of about me</h3>
+</div>
 
 ```yaml
 name: Kenadee (pxrson)
