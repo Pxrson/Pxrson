@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=pxrson&fontAlignY=35&fontSize=45&fontColor=ffffff&desc=Learning%20Lua%20•%20Roblox%20Upcoming%20Dev&descAlignY=55&animation=twinkling" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=9333EA&center=true&vCenter=true&width=400&lines=hey+there;roblox+script+dev;always+learning+something+new)](https://git.io/typing-svg)
-</div>
-
 ## About me - (turn over if mobile)
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
@@ -75,7 +72,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 ```
 </details>
 
-## Tech Stack
+## Socials and stuff
 
 <div align="center">
   
@@ -84,8 +81,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 ![Game Development](https://img.shields.io/badge/Game_Development-4CAF50?style=flat&logo=unity&logoColor=white)
 
 </div>
-
-## Connect With Me
 
 <div align="center">
   <a href="https://www.roblox.com/users/4450443699/profile">
