@@ -16,7 +16,7 @@ current_focus: improving lua skills & creating useful scripts
 
 ---
 
-## My Scripts
+### My Scripts
 
 <details>
 <summary><b>oMega Obby</b> - roblox game script</summary>
@@ -74,7 +74,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 
 ---
 
-## Socials and stuff
+### Socials and stuff
 
 <div align="center">
   
@@ -82,7 +82,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game_Development-4CAF50?style=flat&logo=unity&logoColor=white)
 
-links u can press ⬇️
+⬇️ links u can press ⬇️
 <div align="center">
   <a href="https://www.roblox.com/users/4450443699/profile">
     <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white" alt="Roblox"/>
