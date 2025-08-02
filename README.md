@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=pxrson&fontAlignY=35&fontSize=45&fontColor=ffffff&desc=Learning%20Lua%20•%20Roblox%20Upcoming%20Dev&descAlignY=55&animation=twinkling" alt="Header"/>
 
-## List of about me
+### List of about me
 
 ```yaml
 name: Kenadee (pxrson)
