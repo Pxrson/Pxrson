@@ -1,7 +1,4 @@
-<div align="center">
-
 ### List of about me
-
 ```yaml
 name: Kenadee (pxrson)
 status: upcoming roblox lua dev
