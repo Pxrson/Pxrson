@@ -14,6 +14,8 @@ current_focus: improving lua skills & creating useful scripts
 
 <br clear="right"/>
 
+---
+
 ## My Scripts
 
 <details>
@@ -70,6 +72,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 ```
 </details>
 
+---
+
 ## Socials and stuff
 
 <div align="center">
@@ -78,8 +82,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game_Development-4CAF50?style=flat&logo=unity&logoColor=white)
 
-</div>
-
+links u can press ⬇️
 <div align="center">
   <a href="https://www.roblox.com/users/4450443699/profile">
     <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white" alt="Roblox"/>
@@ -100,10 +103,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
   <a href="https://scriptblox.com/u/pxrson999">
     <img src="https://img.shields.io/badge/Scriptblox-0066CC?style=flat&logoColor=white" alt="Scriptblox"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=thanks%20for%20visiting&fontSize=20&fontAlignY=70&animation=twinkling" alt="Footer"/>
 </div>
