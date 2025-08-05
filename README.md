@@ -20,7 +20,7 @@ current_focus: improving lua skills & creating useful scripts
 </div>
 
 <details>
-<summary><b>oMega Obby</b> - roblox game script</summary>
+<summary><b>oMega Obby</b> - game script</summary>
 
 ```lua
 -- Discord: .pxrson
