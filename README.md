@@ -47,7 +47,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Wall-Hop-Obby/
 </details>
 
 <details>
-<summary><b>Project x Altura</b> - game enhancement</summary>
+<summary><b>Project x Altura</b> - game script</summary>
 
 ```lua
 -- Discord: .pxrson
