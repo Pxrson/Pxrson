@@ -10,6 +10,19 @@ music_taste: rap • hip-hop • rock • metal • country
 vibes: usually online, funny, random
 current_focus: improving lua skills & creating useful scripts
 ```
+**info:**
+1. discord:
+.pxrson
+
+3. roblox(s):
+NW_GlitcherNu,
+KSWalt16,
+DrizzyyDrake69,
+pxrsonroblox,
+spaghettimeatbaiiz
+
+4. help:
+find help in [my server](https://discord.gg/tAA9bzYyBx)
 
 <br clear="right"/>
 
