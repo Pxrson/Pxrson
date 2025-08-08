@@ -32,7 +32,7 @@ find help in [my server](https://discord.gg/tAA9bzYyBx)
 ---
 
 <div align="center">
-  <h3>My scripts</h3>
+  <h3>scripts</h3>
 </div>
 
 <details>
@@ -92,7 +92,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 ---
 
 <div align="center">
-  <h3>Socials</h3>
+  <h3>socials</h3>
 </div>
 
 <div align="center">
