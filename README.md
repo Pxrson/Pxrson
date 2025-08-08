@@ -36,7 +36,7 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 ---
 
 <div align="center">
-  <h3>⬇️ knowlodge and stuff idk ↩️</h3>
+  <h3>knowlodge and stuff idk</h3>
 </div>
 
 <div align="center">
