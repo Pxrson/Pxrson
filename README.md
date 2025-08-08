@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>List of about me</h3>
+  <h3>list of about me</h3>
 </div>
 
 ```yaml
@@ -10,7 +10,10 @@ music_taste: rap • hip-hop • rock • metal • country
 vibes: usually online, funny, random
 current_focus: improving lua skills & creating useful scripts
 ```
-**info:**
+<div align="center">
+  <h3>info</h3>
+</div>
+
 1. discord:
 .pxrson
 
