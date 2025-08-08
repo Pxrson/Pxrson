@@ -15,7 +15,7 @@ current_focus: improving lua skills & creating useful scripts
 </div>
 
 **1. discord(s):**
-.pxrson
+.pxrson,
 stage6ballcancer
 
 **3. roblox(s):**
