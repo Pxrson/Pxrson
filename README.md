@@ -36,7 +36,7 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 ---
 
 <div align="center">
-  <h3>socials</h3>
+  <h3>knowlodge</h3>
 </div>
 
 <div align="center">
@@ -45,7 +45,10 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game_Development-4CAF50?style=flat&logo=unity&logoColor=white)
 
-⬇️ links u can press ⬇️
+<div align="center">
+  <h3>⬇️ links u can press ⬇️</h3>
+</div>
+
 <div align="center">
   <a href="https://www.roblox.com/users/4450443699/profile">
     <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white" alt="Roblox"/>
