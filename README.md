@@ -10,6 +10,9 @@ music_taste: rap • hip-hop • rock • metal • country
 vibes: usually online, funny, random
 current_focus: improving lua skills & creating useful scripts
 ```
+
+---
+
 <div align="center">
   <h3>info</h3>
 </div>
