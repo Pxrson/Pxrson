@@ -14,17 +14,18 @@ current_focus: improving lua skills & creating useful scripts
   <h3>info</h3>
 </div>
 
-1. discord:
+**1. discord(s):**
 .pxrson
+stage6ballcancer
 
-3. roblox(s):
+**3. roblox(s):**
 NW_GlitcherNu,
 KSWalt16,
 DrizzyyDrake69,
 pxrsonroblox,
 spaghettimeatbaiiz
 
-4. help:
+**4. help:**
 find help in [my server](https://discord.gg/tAA9bzYyBx)
 
 <br clear="right"/>
