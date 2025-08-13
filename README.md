@@ -60,7 +60,11 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 ---
 
 <div align="center">
-  <h3>⬇️ links u can press (the discord one isnt a link..just my username ⬇️</h3>
+  <h3>⬇️ links u can press ⬇️</h3>
+</div>
+
+<div align="center">
+  <h3>(the discord one isnt a link..just my username)</h3>
 </div>
 
 <div align="center">
