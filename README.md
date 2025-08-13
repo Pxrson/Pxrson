@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>hi, i'm pxrson! heres a list of about me</h3>
+  <h3>hi, i'm pxrson! heres a list of about me.</h3>
 </div>
 
 ```yaml
