@@ -64,7 +64,7 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 </div>
 
 <div align="center">
-  <h3>(the discord one isnt a link..just my username)</h3>
+  (the discord one isnt a link..just my username)
 </div>
 
 <div align="center">
