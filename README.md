@@ -9,7 +9,7 @@ interests: [scripting, gaming, music]
 music_taste: rap • hip-hop • rock • metal • country
 vibes: usually online, funny, random
 current_focus: improving lua skills & creating useful scripts
-```
+````
 
 ---
 
@@ -22,7 +22,7 @@ current_focus: improving lua skills & creating useful scripts
 stage6ballcancer
 
 **3. roblox(s):**
-NW_GlitcherNu,
+NW\_GlitcherNu,
 KSWalt16,
 DrizzyyDrake69,
 pxrsonroblox,
@@ -40,33 +40,36 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 </div>
 
 <div align="center">
-  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game_Development-4CAF50?style=flat&logo=unity&logoColor=white)
+
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua\&logoColor=white)](#)
+[![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?logo=roblox\&logoColor=white)](#)
+[![Game Development](https://img.shields.io/badge/Game%20Development-%234CAF50.svg?logo=unity\&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  <h4>Statistics</h4>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pxrson&show_icons=true&theme=discord_old_blurple" width=350px height=auto><br><sub>Last updated: August 2025</sub>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxrson&layout=compact&theme=discord_old_blurple" width=350px height=auto><br><sub>Top languages</sub>
+
+---
 
 <div align="center">
   <h3>⬇️ links u can press ⬇️</h3>
 </div>
 
 <div align="center">
-  <a href="https://www.roblox.com/users/4450443699/profile">
-    <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white" alt="Roblox"/>
-  </a>
-  <a href="https://www.youtube.com/@pxrsonv">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.tiktok.com/@pxrson999">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <br><br>
-  <a href="https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
-  <a href="https://discord.com/users/.pxrson">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://scriptblox.com/u/pxrson999">
-    <img src="https://img.shields.io/badge/Scriptblox-0066CC?style=flat&logoColor=white" alt="Scriptblox"/>
-  </a>
+
+[![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat\&logo=roblox\&logoColor=white)](https://www.roblox.com/users/4450443699/profile)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat\&logo=youtube\&logoColor=white)](https://www.youtube.com/@pxrsonv)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@pxrson999) <br><br>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4)
+[![Discord](https://img.shields.io/badge/Discord-.pxrson-5865F2?style=flat\&logo=discord\&logoColor=white)](#)
+[![Scriptblox](https://img.shields.io/badge/Scriptblox-0066CC?style=flat\&logoColor=white)](https://scriptblox.com/u/pxrson999)
+
 </div>
