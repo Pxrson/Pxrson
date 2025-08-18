@@ -2,6 +2,7 @@
   <h3>hi, i'm pxrson! heres a list of about me.</h3>
 </div>
 
+<div align="center">
 ```yaml
 name: Kenadee (pxrson)
 status: upcoming roblox lua dev
@@ -10,6 +11,7 @@ music_taste: rap • hip-hop • rock • metal • country
 vibes: usually online, funny, random
 current_focus: improving lua skills & creating useful scripts
 ````
+</div>
 
 ---
 
@@ -57,9 +59,11 @@ i have joined github on February 12, 2024
   <h4>Statistics</h4>
 </div>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Pxrson&show_icons=true&theme=discord_old_blurple" width=350px height=auto><br><sub>Last updated: August 2025</sub>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxrson&layout=compact&theme=discord_old_blurple" width=350px height=auto><br><sub>Top languages</sub>
+</div>
 
 ---
 
