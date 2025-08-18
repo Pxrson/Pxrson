@@ -10,7 +10,7 @@ status: upcoming roblox lua dev
 vibes: usually online, funny, random
 interests: [peace, gaming, music]
 current_focus: improving lua skills & creating useful scripts
-music_taste: rap • hip-hop • rock • metal • country
+music_taste: rap/hip-hop • rock/metal • real country (some from oklahoma)
  (pretty much everything except for that weird, gay stuff)
 ````
 
