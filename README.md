@@ -8,7 +8,7 @@
 name: Kenadee (pxrson)
 status: upcoming roblox lua dev
 vibes: usually online, funny, random
-interests: [scripting, gaming, music]
+interests: [peace, gaming, music]
 current_focus: improving lua skills & creating useful scripts
 music_taste: rap • hip-hop • rock • metal • country
  (pretty much everything except for that weird, gay stuff)
