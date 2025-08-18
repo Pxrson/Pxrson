@@ -31,6 +31,9 @@ spaghettimeatbaiiz
 **4. help:**
 find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 
+**5. random:**
+i have joined github on February 12, 2024
+
 <br clear="right"/>
 
 ---
