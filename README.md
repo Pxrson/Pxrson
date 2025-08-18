@@ -81,6 +81,4 @@ originally_was: VR content creater (PxrsonVr#2630)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pxrson&show_icons=true&theme=discord_old_blurple" width=350px height=auto><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxrson&layout=compact&theme=discord_old_blurple" width=350px height=auto><br>
-
 </div>
