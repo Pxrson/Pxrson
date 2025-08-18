@@ -46,7 +46,8 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 age: 13+
 joined: github on February 12, 2024
 joined_discord: november 7, 2022
-originally_was: VR content creater (PxrsonVr#2630), moved 2 roblox & started scripting sometime n january 2025
+originally_was: VR content creater (PxrsonVr#2630)
+            ^^ moved 2 roblox & started scripting sometime n january 2025
 ```
 
 <br clear="right"/>
