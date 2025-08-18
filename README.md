@@ -12,7 +12,7 @@ vibes: usually online, funny, random
 current_focus: improving lua skills & creating useful scripts
 music_taste: rap/hip-hop • rock/metal • real country (some from oklahoma)
  (pretty much everything except for that weird, gay stuff)
-grew_up: i grew up in stigler, oklahoma. moved 4hrs away with my mom (yes my dad achoholic)
+grew_up: stigler, oklahoma & moved 4hrs away with my mom (yes my dad achoholic)
 ````
 
 </div>
