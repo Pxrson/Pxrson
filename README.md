@@ -56,7 +56,7 @@ i have joined github on February 12, 2024
 ---
 
 <div align="center">
-  <h3>⬇️ links u can press ⬇️</h3>
+  <h3>⬇️ links & stats ⬇️</h3>
 </div>
 
 <div align="center">
@@ -75,7 +75,5 @@ i have joined github on February 12, 2024
 <img src="https://github-readme-stats.vercel.app/api?username=Pxrson&show_icons=true&theme=discord_old_blurple" width=350px height=auto><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxrson&layout=compact&theme=discord_old_blurple" width=350px height=auto><br>
-
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9f0f6f04-8c44-4550-9599-d99c264f9aa9" />
 
 </div>
