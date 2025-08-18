@@ -56,18 +56,6 @@ i have joined github on February 12, 2024
 ---
 
 <div align="center">
-  <h4>Statistics</h4>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pxrson&show_icons=true&theme=discord_old_blurple" width=350px height=auto><br><sub>Last updated: August 2025</sub>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxrson&layout=compact&theme=discord_old_blurple" width=350px height=auto><br><sub>Top languages</sub>
-</div>
-
----
-
-<div align="center">
   <h3>⬇️ links u can press ⬇️</h3>
 </div>
 
@@ -83,6 +71,9 @@ i have joined github on February 12, 2024
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4)
 [![Discord](https://img.shields.io/badge/Discord-.pxrson-5865F2?style=flat\&logo=discord\&logoColor=white)](#)
 [![Scriptblox](https://img.shields.io/badge/Scriptblox-0066CC?style=flat\&logoColor=white)](https://scriptblox.com/u/pxrson999)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pxrson&show_icons=true&theme=discord_old_blurple" width=350px height=auto><br><sub>Last updated: August 2025</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxrson&layout=compact&theme=discord_old_blurple" width=350px height=auto><br><sub>Top languages</sub>
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9f0f6f04-8c44-4550-9599-d99c264f9aa9" />
 
