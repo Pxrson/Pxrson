@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+
 ```yaml
 name: Kenadee (pxrson)
 status: upcoming roblox lua dev
@@ -11,6 +12,7 @@ music_taste: rap • hip-hop • rock • metal • country
 vibes: usually online, funny, random
 current_focus: improving lua skills & creating useful scripts
 ````
+
 </div>
 
 ---
