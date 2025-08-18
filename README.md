@@ -32,7 +32,7 @@ spaghettimeatbaiiz
 find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 
 **5. random:**
-i have joined github on February 12, 2024 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9f0f6f04-8c44-4550-9599-d99c264f9aa9" />
+i have joined github on February 12, 2024
 
 
 <br clear="right"/>
@@ -79,5 +79,7 @@ i have joined github on February 12, 2024 <img width="500" height="300" alt="ima
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4)
 [![Discord](https://img.shields.io/badge/Discord-.pxrson-5865F2?style=flat\&logo=discord\&logoColor=white)](#)
 [![Scriptblox](https://img.shields.io/badge/Scriptblox-0066CC?style=flat\&logoColor=white)](https://scriptblox.com/u/pxrson999)
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9f0f6f04-8c44-4550-9599-d99c264f9aa9" />
 
 </div>
