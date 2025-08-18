@@ -32,7 +32,8 @@ spaghettimeatbaiiz
 find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 
 **5. random:**
-i have joined github on February 12, 2024
+i have joined github on February 12, 2024 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9f0f6f04-8c44-4550-9599-d99c264f9aa9" />
+
 
 <br clear="right"/>
 
