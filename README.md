@@ -4,6 +4,14 @@
 
 <div align="center">
 
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua\&logoColor=white)](#)
+[![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?logo=roblox\&logoColor=white)](#)
+[![Game Development](https://img.shields.io/badge/Game%20Development-%234CAF50.svg?logo=unity\&logoColor=white)](#)
+
+</div>
+
+<div align="center">
+
 ```yaml
 name: Kenadee (pxrson)
 status: upcoming roblox lua dev
@@ -51,20 +59,6 @@ originally_was: VR content creater (PxrsonVr#2630)
 ```
 
 <br clear="right"/>
-
----
-
-<div align="center">
-  <h3>knowlodge and stuff idk</h3>
-</div>
-
-<div align="center">
-
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua\&logoColor=white)](#)
-[![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?logo=roblox\&logoColor=white)](#)
-[![Game Development](https://img.shields.io/badge/Game%20Development-%234CAF50.svg?logo=unity\&logoColor=white)](#)
-
-</div>
 
 ---
 
