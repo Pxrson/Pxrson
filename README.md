@@ -51,7 +51,6 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 <div align="center">
 
 ```yaml
-my_age: 13+
 joined_github: february 12, 2024
 joined_discord: november 7, 2022
 originally_was: VR content creater (PxrsonVr#2630)
