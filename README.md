@@ -13,7 +13,7 @@
 <div align="center">
 
 ```yaml
-name: Kenadee (pxrson)
+name: kenadee (pxrson)
 status: upcoming roblox lua dev
 interests: [peace, gaming, music]
 vibes: usually online, funny, random
