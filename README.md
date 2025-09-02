@@ -6,7 +6,6 @@
 
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua\&logoColor=white)](#)
 [![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?logo=roblox\&logoColor=white)](#)
-[![Game Development](https://img.shields.io/badge/Game%20Development-%234CAF50.svg?logo=unity\&logoColor=white)](#)
 
 </div>
 
