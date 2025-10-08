@@ -15,10 +15,8 @@
 name: kenadee (pxrson)
 interests: [peace, gaming, music]
 vibes: usually online, funny, random
-music_taste: rap/hip-hop • rock/metal • real country (some from oklahoma)
+music_taste: rap/hip-hop • rock/metal • real country (some from oklahoma) • waterboyz, youngboy, trippie redd
  ^^ (pretty much everything except that weird, gay stuff)
-grew_up: stigler, oklahoma, moved 4hrs away w/ mom cuz parents divorced
-  ^^ lived n oklahoma whole life 
 ````
 
 </div>
