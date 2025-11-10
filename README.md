@@ -14,7 +14,7 @@
 ```yaml
 name: kenadee (pxrson)
 interests: [peace, gaming, music]
-vibes: usually online, funny, random
+vibes: usually online, funny, random, sarcastic, and jokes around
 music_taste: rap/hip-hop • rock/metal • real country (some from oklahoma) • waterboyz, youngboy, trippie redd
  ^^ (pretty much everything except that weird, gay stuff)
 ````
