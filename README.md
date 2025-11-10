@@ -46,6 +46,7 @@ find help in [my discord server](https://discord.gg/tAA9bzYyBx)
 <div align="center">
 
 ```yaml
+i'm pro discord server maker (as u can see in my script server)
 joined_github: february 12, 2024
 joined_discord: november 7, 2022
 originally_was: VR content creater (PxrsonVr#2630)
