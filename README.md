@@ -29,7 +29,7 @@ music_taste: rap/hip-hop • rock/metal • country (some from oklahoma/texas id
 
 **1. discord(s):**
 .pxrson,
-stage6ballcancer
+toolost2care
 
 **3. roblox(s):**
 NW\_GlitcherNu,
