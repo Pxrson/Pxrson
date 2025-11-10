@@ -16,7 +16,7 @@ name: kenadee (pxrson)
 interests: [peace, gaming, music]
 vibes: usually online, funny, random, sarcastic, and jokes around
 music_taste: rap/hip-hop • rock/metal • country (some from oklahoma/texas idk) • waterboyz, youngboy, trippie redd
-^^ ---------------(pretty much everything except that weird, gay stuff)
+(pretty much everything except that weird, gay stuff)
 ````
 
 </div>
